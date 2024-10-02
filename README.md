@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: In my free time, I love trying different types of food and traveling! ✈️🍽️
 -->
 ## About Me
-I’m Jimena Luna Rivera, a junior at the University of North Carolina at Chapel Hill, pursuing a degree in Computer Science and Data Science. I have a deep interest in developing applications that can make a meaningful impact on people's lives, which has driven me to explore areas like user experience design and data analytics. I am particularly fascinated by how technology can facilitate human connections and enhance everyday tasks. In my free time, I enjoy trying different types of food and traveling, which often inspires my creativity in software development.
+I’m Jimena Luna Rivera, a student at the University of North Carolina at Chapel Hill, pursuing a degree in Computer Science and Data Science. I have a deep interest in developing applications that can make a meaningful impact on people's lives, which has driven me to explore areas like user experience design and data analytics. I am particularly fascinated by how technology can facilitate human connections and enhance everyday tasks. In my free time, I enjoy trying different types of food and traveling, which often inspires my creativity in software development.
 
 ## Skills
 
